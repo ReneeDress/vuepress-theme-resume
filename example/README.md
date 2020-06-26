@@ -1,71 +1,86 @@
 <h1>
-  <span>姓名</span>
+  <span>林艺珺</span>
   <ul>
-    <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>QQ</span>xxxxxxxxxxxxx</li>
-    <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/wannaxiao</a></li>
+    <li><span>电话</span>(+86)18149729101</li>
+    <li><span>邮箱</span>linyjwork@yeah.net</li>
+    <li><span>Github</span>ReneeDress</li>
+    <li><span>个人网站</span>yijunstudio.xyz</li>
   </ul>
 </h1>
 
+## 求职意向
+
+前端Web开发；微信小程序开发；软件测试
+
 ## 教育经历
 
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+本科 上海大学 计算机工程与科学学院 计算机科学与技术 <span class="right">2018.09 - 2022.06</span>
 
-## 工作经历
-
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
-
-- 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
+* 主修课程：高级语言程序设计、数学系列课程、数据结构、计算机组成原理等。
+* 选修课程：人机界面设计、数值代数与计算方法、Web开发技术、区块链技术与数据经济学、计算机视觉等。
 
 ## 项目经验
 
-### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
+### SHULiving上海大学生活权益助手小程序:&nbsp;独立开发</span><span class="right">2019.12 - 至今</span>
 
-- 技术栈：**XXX Xxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目二名称<span class="role">:&nbsp;核心开发者</span><span class="right">2017.01 - 2018.01</span>
-
-- 技术栈：**XXX Xxxx + Xxx Xxxxxx + Xxxxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- 技术栈：**微信小程序 + HTML + CSS + JavaScript**
+- 目标为上海大学师生提供移动端最便捷的通知通告、权益信息、失物招领一站式平台。
+- 程序开发：整体业务逻辑设计，小程序前期调研与方案策划；小程序用户端、管理端开发。
+- 视觉设计：Logo设计、UI设计、主题配色确定等。
+- 现已完成体验版v0.1.0开发并进行小范围内测。
 
 ---
 
-### 项目三名称<span class="role">:&nbsp;项目负责人</span><span class="right">2016.01 - 2017.01</span>
+### 计算机英语句句搜:&nbsp;独立开发</span><span class="right">2020.06</span>
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- 技术栈：**Vue.js + Python + Django**
+- 《数据结构》课程个人期末作业（自建语料库实现根据单词找相应例句的程序）；7天内完成。
+- 使用Vue.js完成前端界面搭建，依靠Python实现后端逻辑、爬虫、分词等，并使用Django封装接口部署成为Web应用。
 
 ---
 
-### 项目四名称<span class="role">:&nbsp;项目维护</span><span class="right">2015.01 - 2016.01</span>
+### 扫雷小游戏复刻:&nbsp;副功能主要开发者；测试</span><span class="right">2019.06 - 2019.07</span>
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- 技术栈：**Windows程序设计 + C++**
+- 夏季小组实训项目：自选一款小游戏完成Windows程序设计。
+- 主要负责扫雷小游戏中的排行榜功能编写以及最终整体程序测试。
+
+## 实践经验
+
+### 上海大学学生会融媒体中心:&nbsp;正部长</span><span class="right">2019.06 - 至今</span>
+
+- 带领部门完成新媒体运营、平面设计、视频制作、现场拍摄等工作；校会内部门间沟通合作。
+
+---
+
+### 上海大学青鸟剧社:&nbsp;副社长</span><span class="right">2020.1 - 至今</span>
+
+- 负责剧社对外宣发工作及与教师、党团委沟通工作；运营包括微信公众号、哔哩哔哩、新浪微博等社交媒体平台。
+
+---
+
+### 上海大学信息服务与运营中心:&nbsp;学生助理</span><span class="right">2018.9 - 至今</span>
+
+- 校园卡相关业务办理；校园网络问题话务咨询解答。
+
+## 荣誉证书
+
+- 2018-2019学年上海大学优秀学生干部
+- 2018-2019学年上海大学学业二等奖奖学金
+- 2018-2019学年上海大学领导力奖学金
 
 ## 技能描述
 
-- 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
+- 了解 Python、HTML、CSS、JavaScript，较为熟悉 C++，接触过Linux
+- 掌握 Microsoft Word、PowerPoint，Keynote、Numbers
+- 掌握 Adobe Photoshop、Premiere、Lightroom、XD、Final Cut Pro X
+- 大学英语四级高分通过
 
 ## 自我评价
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* 上海大学大二在校本科生，学业成绩优良，平均绩点3.64（截止20.06.19）。
+
+* 有一定自学能力，在课余时间钻研感兴趣专业方向的技术：前后端流行技术，包括Vue.js、Python Web、H5广告开发等；创意编程技术Processing、P5.js等；可以独立完成较完善的学生项目；有自己的学业技术博客。
+
+* 校内学生组织骨干：所属校学生会融媒体中心有50余人，合理统筹安排各个组别工作，与其他部门积极沟通交涉合作，有独立完成校级平面、视频宣制品能力，独立完成创意推送能力；所属校级社团青鸟剧社有在籍社员超300人，活跃社员70余人，参与多部剧社作品幕后制作与现场演出调度，承担过两部千人观众作品的部分工作。有较强的表达能力、管理能力及适应能力。
+* 兴趣爱好广泛，喜爱流行声乐、舞蹈、视频制作、摄影摄像、平面设计等；假期与好友组织集体出游，易相处性格。
